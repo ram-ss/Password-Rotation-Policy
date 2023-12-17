@@ -1,0 +1,5 @@
+python
+pymongo
+smtplib
+email
+random
